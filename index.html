@@ -1,0 +1,126 @@
+---
+title: DSB
+description: Workshop Data Structures in Bioinformatics
+image: assets/img/spectacle-fireworks.png
+# https://source.unsplash.com/j5LSbCqB1wA/2000x1322?a=.png
+bottom_image: https://unsplash.it/2000/1322?a=.png
+ds_image: assets/images/ds/exemple-tsg.png
+lf_image: assets/images/ds/exemple_xbw.png
+al_image: assets/images/ds/exemple_bwt_st_ac_rev.png
+---
+
+<section class="hero" style="background-image: url({% include relative-src.html src=page.image %})">
+  <div class="inner-hero text-container">
+    <div class="hero-text-container">
+      <h1 class="editable">Data Structures in Bioinformatics</h1>
+      <p>Navigating in the complexity of life science data without drowning</p>
+      <!-- <div class="cta button alt"><a href="#">Learn More</a></div> -->
+    </div>
+  </div>
+  <div class="learn-more"><a href="#learn-more">Learn more <span class="arrow">&#x25BC;</span></a></div>
+</section>
+
+<div class="content">
+  <section class="info" id="learn-more">
+    <div class="container flex">
+      <div class="text">
+	<p class="subtext editable">The workshop "Data Structures in Bioinformatics", or DSB for short, is an annual scientific meeting at the crossroads of computer science and biology.
+	  It is the unique forum to discuss compact data structures and their applications for processing data from life sciences.
+	</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="info">
+		<div class="container flex">
+			<div class="text">
+				<h2 class="editable">Why Data Structures?</h2>
+				<p class="editable">Data Structures 
+
+				  <ul class="org-ul">
+				    <li>organize your data in memory
+				    </li>
+				    <li>allow querying and mining the data on-the-fly
+				    </li>
+				    <li>in optimal or nearly optimal time.
+				    </li>
+				  </ul>
+				</p>
+			</div>
+			<!-- <div class="image"> -->
+			<!--   <img class="editable" src="{{ page.ds_image }}" style="width: 300px;" alt="Truncated Hierarchical Overlap Graph" /> -->
+			<!-- </div> -->
+			<div class="image">
+			  {% include local-img.html
+			  max-width='400px'
+			  width='250px' 
+			  file="assets/img/ds/exemple-tsg.png"
+			  alt="Truncated Hierarchical Overlap Graph" %}
+			</div>
+		</div>
+	</section>
+
+	<section class="info">
+		<div class="container flex">
+			<div class="text">
+				<h2 class="editable">Why applications in life sciences?</h2>
+				<p class="editable">
+				  Life Sciences
+				<ul class="org-ul">
+				  <li>experience a revolution in data acquisition technologies, which yield huge quantities of sequencing data
+				  </li>
+				  <li>target multiple, diverse molecular substrates and phenomena
+				  </li>
+				  <li>offer a wide range of application domains (health, environment, agronomy, &#x2026;)
+				  </li>
+				  <li>require complex, efficient, and scalable data mining approaches.
+				  </li>
+				</ul>
+				</p>
+			</div>
+			<div class="image">
+			  {% include local-img.html
+			  file="assets/img/ds/exemple_xbw.png"
+			  max-width='400px'
+			  width='250px' 
+			  alt="Trie of a set of words - Extended Burrows Wheeler Transform" %}
+			</div>
+		</div>
+	</section>
+
+	<section class="info">
+		<div class="container flex">
+			<div class="text">
+				<h2 class="editable">Why algorithms for compact data structures?</h2>
+				<p class="editable">
+				  <ul class="org-ul">
+				    <li>Although DS aren't their main focus, bioinformatics methods heavily relies on compact DS
+				    </li>
+				    <li>Efficient algorithms for building, querying or maintaining DS are crucial for scalability
+				    </li>
+				    <li>This recent topic fosters innovative ideas, a dynamic community, and beautiful algorithms.
+				    </li>
+				  </ul>
+				</p>
+			</div>
+			
+			<div class="image">
+			  {% include local-img.html
+			  file="assets/img/ds/exemple_bwt_st_ac_rev.png"
+			  max-width='400px'
+			  width='350px' 
+			  alt="Relation between Suffix Tree, Aho-Corasick automaton, and  Burrows Wheeler Transform of a set of words" %}
+			</div>
+		</div>
+	</section>
+
+	<!-- <section class="hero" style="background-image: url({% include relative-src.html src=page.bottom_image %})"> -->
+	<!-- 	<div class="inner-hero text-container"> -->
+	<!-- 		<div class="hero-text-container"> -->
+	<!-- 			<h2 class="editable">Find your buddy today</h2> -->
+	<!-- 			<p class="subtext editable">It's free, fun and an exciting way to meet new people.</p> -->
+	<!-- 			<div class="cta button alt"><a href="#">Join Now</a></div> -->
+	<!-- 		</div> -->
+	<!-- 	</div> -->
+	<!-- </section> -->
+</div>
