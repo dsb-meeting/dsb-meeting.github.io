@@ -1,10 +1,12 @@
+- name: DSB2020
+  link: /DSB2020/
 - name: Spirit
   link: /spirit/
 - name: Story
   link: /story/
 - name: Steering
   link: /steering/
-- name: Blog
-  link: /blog/
-- name: Contact
-  link: /contact/
+# - name: Blog
+#   link: /blog/
+# - name: Contact
+#   link: /contact/
