@@ -6,4 +6,20 @@ description: participants
 image: img/part.jpg
 ---
 
-To be announced
+List of participants on January 6, 2020
+
+|Surname    | First Name |
+|------------|---------|
+| Bannai     | Hideo   |
+| Chikhi     | Rayan   |
+| Köppl      | Dominik |
+| Lecompte   | Lolita  |
+| Leinonen   | Miika   |
+| Lemaitre   | Claire  |
+| Lemane     | Téo     |
+| Peterlongo | Pierre  |
+| Rahmann    | Sven    |
+| Salmela    | Leena   |
+| Stoye      | Jens    |
+| Yamada     | Taiki   |
+| Zentgraf   | Jens    |
