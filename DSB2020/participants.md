@@ -6,7 +6,7 @@ description: participants
 image: img/part.jpg
 ---
 
-List of participants on January 6, 2020
+List of participants on January 9, 2020
 
 |Surname    | First Name |
 |------------|---------|
