@@ -19,6 +19,7 @@ List of participants on January 6, 2020
 | Leinonen   | Miika   |
 | Lemaitre   | Claire  |
 | Lemane     | Téo     |
+| Medvedev | Paul |
 | Morisse | Pierre |
 | Peterlongo | Pierre  |
 | Puglisi | Simon |
