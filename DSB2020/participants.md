@@ -22,7 +22,6 @@ List of participants on January 9, 2020
 | Medvedev | Paul |
 | Morisse | Pierre |
 | Peterlongo | Pierre  |
-| Puglisi | Simon |
 | Rahmann    | Sven    |
 | Salmela    | Leena   |
 | Sater | Vincent |
