@@ -6,12 +6,14 @@ description: participants
 image: img/part.jpg
 ---
 
-List of participants on January 9, 2020
+List of participants on January 15, 2020
 
 |Surname    | First Name |
 |------------|---------|
 | Bannai     | Hideo   |
 | Chikhi     | Rayan   |
+| Dias Vieira Braga | Marilia |
+| Guichard | Anne |
 | Köppl      | Dominik |
 | Krannich | Thomas |
 | Lecompte   | Lolita  |
@@ -23,9 +25,11 @@ List of participants on January 9, 2020
 | Morisse | Pierre |
 | Peterlongo | Pierre  |
 | Rahmann    | Sven    |
+| Roux | Emeline |
 | Salmela    | Leena   |
 | Sater | Vincent |
 | Shirali Hossein Zade | Ramin |
 | Stoye      | Jens    |
 | Yamada     | Taiki   |
 | Zentgraf   | Jens    |
+| Zhukova | Bella |
