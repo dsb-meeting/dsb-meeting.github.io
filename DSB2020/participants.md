@@ -9,8 +9,9 @@ image: img/part.jpg
 List of participants on January 16, 2020
 
 |    |                      |  |
-|:-----------|---------|--------:|
+|:-----------|---------|------------|
 | Hideo | Bannai     | Kyushu University |
+| Birte | Kehr | Berlin Institute of Health / Charité |
 | Cédric | Chauve | Simon Fraser University |
 | Rayan | Chikhi     | Institut Pasteur & CNRS |
 | Marilia | Dias Vieira Braga | Bielefeld University |
