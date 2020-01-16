@@ -6,30 +6,33 @@ description: participants
 image: img/part.jpg
 ---
 
-List of participants on January 15, 2020
+List of participants on January 16, 2020
 
-|Surname    | First Name |
-|------------|---------|
-| Bannai     | Hideo   |
-| Chikhi     | Rayan   |
-| Dias Vieira Braga | Marilia |
-| Guichard | Anne |
-| Köppl      | Dominik |
-| Krannich | Thomas |
-| Lecompte   | Lolita  |
-| Lecroq | Thierry |
-| Leinonen   | Miika   |
-| Lemaitre   | Claire  |
-| Lemane     | Téo     |
-| Medvedev | Paul |
-| Morisse | Pierre |
-| Peterlongo | Pierre  |
-| Rahmann    | Sven    |
-| Roux | Emeline |
-| Salmela    | Leena   |
-| Sater | Vincent |
-| Shirali Hossein Zade | Ramin |
-| Stoye      | Jens    |
-| Yamada     | Taiki   |
-| Zentgraf   | Jens    |
-| Zhukova | Bella |
+|Surname    | First Name | Affiliation |
+|-----------:|---------|------------|
+| Bannai     | Hideo   | Kyushu University |
+| Chauve | Cédric | Simon Fraser University |
+| Chikhi     | Rayan   | Institut Pasteur & CNRS |
+| Dias Vieira Braga | Marilia | Bielefeld University |
+| Guichard | Anne | IRISA - Equipe GenScale |
+| Köppl      | Dominik | Kyushu University |
+| Krannich | Thomas | Berlin Institute of Health |
+| Lecompte   | Lolita  | Inria |
+| Lecroq | Thierry | University of Rouen Normandy |
+| Leinonen   | Miika   | University of Helsinki |
+| Lemaitre   | Claire  | Inria |
+| Lemane     | Téo     | Inria |
+| Marchet | Camille | Université de Lille |
+| Medvedev | Paul | Penn State |
+| Morisse | Pierre | LITIS EA 4108 - INSA Rouen Normandie |
+| Peterlongo | Pierre  | Inria |
+| Rahmann    | Sven    | University of Duisburg-Essen |
+| Roux | Emeline | Inria |
+| Salmela    | Leena   | University of Helsinki |
+| Sater | Vincent | LITIS EA 4108 |
+| Shirali Hossein Zade | Ramin | TUDelft |
+| Starikovskaya | Tatiana | ENS Paris |
+| Stoye      | Jens    | Bielefeld University |
+| Yamada     | Taiki   | Waseda University |
+| Zentgraf   | Jens    | TU Dortmund University |
+| Zhukova | Bella | University of Helsinki |
