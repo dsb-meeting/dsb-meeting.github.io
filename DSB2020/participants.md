@@ -6,16 +6,18 @@ description: participants
 image: img/part.jpg
 ---
 
-List of participants on January 16, 2020
+List of participants on January 17, 2020
 
 |    |                      |  |
 |:-----------|---------|------------|
 | Hideo | Bannai     | Kyushu University |
-| Birte | Kehr | Berlin Institute of Health / Charité |
+| Marine    | Brenet               | Inserm LTSI Medicis                  |
 | Cédric | Chauve | Simon Fraser University |
 | Rayan | Chikhi     | Institut Pasteur & CNRS |
 | Marilia | Dias Vieira Braga | Bielefeld University |
+| Daniel | Doerr | Bielefeld University |
 | Anne | Guichard | IRISA - Equipe GenScale |
+| Birte | Kehr | Berlin Institute of Health |
 | Dominik | Köppl      | Kyushu University |
 | Thomas | Krannich | Berlin Institute of Health |
 | Lolita | Lecompte   | Inria |
@@ -28,9 +30,11 @@ List of participants on January 16, 2020
 | Pierre | Morisse | LITIS EA 4108 - INSA Rouen Normandie |
 | Pierre | Peterlongo | Inria |
 | Sven | Rahmann    | University of Duisburg-Essen |
+| Éric | Rivals | LIRMM - Univ Montpellier & CNRS |
 | Emeline | Roux | Inria |
 | Leena | Salmela    | University of Helsinki |
 | Vincent | Sater | LITIS EA 4108 |
+| Yoshihiro | Shibuya | Université Gustave Eiffel |
 | Ramin | Shirali Hossein Zade | TUDelft |
 | Tatiana | Starikovskaya | ENS Paris |
 | Jens  | Stoye      | Bielefeld University |
