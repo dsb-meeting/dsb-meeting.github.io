@@ -27,6 +27,7 @@ List of participants on January 20, 2020
 | Miika | Leinonen   | University of Helsinki |
 | Claire | Lemaitre   | Inria |
 | Téo  | Lemane     | Inria |
+| Antoine | Limasset | CNRS |
 | Camille | Marchet | Université de Lille |
 | Paul | Medvedev | Penn State |
 | Pierre | Morisse | LITIS EA 4108 - INSA Rouen Normandie |
@@ -43,7 +44,7 @@ List of participants on January 20, 2020
 | Tatiana | Starikovskaya | ENS Paris |
 | Jens  | Stoye      | Bielefeld University |
 | Taiki | Yamada     | Waseda University |
-| Riku | Walve |  |
+| Riku | Walve | University of Helsinki |
 | Jens | Zentgraf   | TU Dortmund University |
 | Bella | Zhukova | University of Helsinki |
 | Matthias | Zytnicki | INRAE |
