@@ -23,5 +23,7 @@ image: ./img/prog.jpg
 | Dominik Köppl, Daiki Hashimoto, Diptarama Hendrian and Ayumi Shinohara | In-Place Bijective Burrows Wheeler Transformations           |
 | Paola Bonizzoni, Luca Denti, Erik Garrison, Yuri Pirola and Marco Previtali | Dynamic quasi-minimal perfect hash function for k-mers       |
 |                       Antoine Limasset                       | Million sequences indexing                                   |
-|                       [WIP] Téo Lemane                       | TBA                                                          |
+| Camille Marchet, Zamin Iqbal, Mikaël Salson and Rayan Chikhi | REINDEER: efficient indexing of k-mer presence and abundance in sequencing datasets |
+|                      Matthias Zytnicki                       | TBA                                                          |
+|      [WIP] Téo Lemane, Paul Medvedev, Pierre Peterlongo      | HowDeSBT and Simka wedding. What has been done and what we plan to do. |
 |                    [WIP] Antoine Limasset                    | TBA                                                          |

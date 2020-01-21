@@ -14,3 +14,8 @@ The workshop "Data Structures in Bioinformatics", or DSB for short, is an annual
 - creation from jekyll frisco template by Eric Rivals
 - set up of an organisation page on github
 
+
+
+## Fall - Winter 2019 - 2020
+
+* Update with DSB2020 
