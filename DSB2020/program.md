@@ -23,4 +23,5 @@ image: ./img/prog.jpg
 | Dominik Köppl, Daiki Hashimoto, Diptarama Hendrian and Ayumi Shinohara | In-Place Bijective Burrows Wheeler Transformations           |
 | Paola Bonizzoni, Luca Denti, Erik Garrison, Yuri Pirola and Marco Previtali | Dynamic quasi-minimal perfect hash function for k-mers       |
 |                       Antoine Limasset                       | Million sequences indexing                                   |
-|                       [WIP] Téo Lemane                       | Talk by Téo Lemane                                           |
+|                       [WIP] Téo Lemane                       | TBA                                                          |
+|                    [WIP] Antoine Limasset                    | TBA                                                          |

@@ -22,6 +22,7 @@ List of participants on January 20, 2020
 | Birte | Kehr | Berlin Institute of Health |
 | Dominik | Köppl      | Kyushu University |
 | Thomas | Krannich | Berlin Institute of Health |
+| Gregory | Kucherov | CNRS/LIGM Univ Gustave Eiffel |
 | Lolita | Lecompte   | Inria |
 | Thierry | Lecroq | University of Rouen Normandy |
 | Miika | Leinonen   | University of Helsinki |
@@ -43,6 +44,7 @@ List of participants on January 20, 2020
 | Ramin | Shirali Hossein Zade | TUDelft |
 | Tatiana | Starikovskaya | ENS Paris |
 | Jens  | Stoye      | Bielefeld University |
+| Kerian | Thuillier | ENS Rennes |
 | Taiki | Yamada     | Waseda University |
 | Riku | Walve | University of Helsinki |
 | Jens | Zentgraf   | TU Dortmund University |
