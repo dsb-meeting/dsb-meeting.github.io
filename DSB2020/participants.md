@@ -6,7 +6,7 @@ description: participants
 image: img/part.jpg
 ---
 
-List of participants on January 20, 2020
+List of participants on January 22, 2020
 
 |    |                      |  |
 |:-----------|---------|------------|
@@ -34,6 +34,7 @@ List of participants on January 20, 2020
 | Pierre | Morisse | LITIS EA 4108 - INSA Rouen Normandie |
 | Akihiro | Nishi | Kyushu University |
 | Pierre | Peterlongo | Inria |
+| Yuri | Pirola | Università degli Studi di Milano - Bicocca |
 | Sven | Rahmann    | University of Duisburg-Essen |
 | Éric | Rivals | LIRMM - Univ Montpellier & CNRS |
 | Emeline | Roux | Inria |

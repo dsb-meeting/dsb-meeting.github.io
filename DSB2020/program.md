@@ -24,6 +24,7 @@ image: ./img/prog.jpg
 | Paola Bonizzoni, Luca Denti, Erik Garrison, Yuri Pirola and Marco Previtali | Dynamic quasi-minimal perfect hash function for k-mers       |
 |                       Antoine Limasset                       | Million sequences indexing                                   |
 | Camille Marchet, Zamin Iqbal, Mikaël Salson and Rayan Chikhi | REINDEER: efficient indexing of k-mer presence and abundance in sequencing datasets |
-|                      Matthias Zytnicki                       | TBA                                                          |
+|                      Matthias Zytnicki                       | srnaMapper: a mapping tool for short-RNA sequencing          |
+| Paola Bonizzoni, Tamara Ceccato, Gianluca Della Vedova, Luca Denti, Yuri Pirola, Marco Previtali and Raffaella Rizzi | Shark: fishing in a sample to discard irrelevant RNA-Seq reads |
 |      [WIP] Téo Lemane, Paul Medvedev, Pierre Peterlongo      | HowDeSBT and Simka wedding. What has been done and what we plan to do. |
-|                    [WIP] Antoine Limasset                    | TBA                                                          |
+|                    [WIP] Antoine Limasset                    | BCash: Best Compressible Hash                                |
