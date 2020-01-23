@@ -26,5 +26,6 @@ image: ./img/prog.jpg
 | Camille Marchet, Zamin Iqbal, Mikaël Salson and Rayan Chikhi | REINDEER: efficient indexing of k-mer presence and abundance in sequencing datasets |
 |                      Matthias Zytnicki                       | srnaMapper: a mapping tool for short-RNA sequencing          |
 | Paola Bonizzoni, Tamara Ceccato, Gianluca Della Vedova, Luca Denti, Yuri Pirola, Marco Previtali and Raffaella Rizzi | Shark: fishing in a sample to discard irrelevant RNA-Seq reads |
+| Ehsan Haghshenas, Hossein Asghari, Jens Stoye, Cedric Chauve, Faraz Hach | HASLR: Fast Hybrid Assembly of Long Reads                    |
 |      [WIP] Téo Lemane, Paul Medvedev, Pierre Peterlongo      | HowDeSBT and Simka wedding. What has been done and what we plan to do. |
 |                    [WIP] Antoine Limasset                    | BCash: Best Compressible Hash                                |
