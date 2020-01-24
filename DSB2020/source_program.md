@@ -1,27 +1,16 @@
----
-layout: "post"
-title: "DSB 2020"
-description: program
-<!-- permalink: /DSB2020/ -->
-image: ./img/prog.jpg
-
----
-
-**Program**
+## Program DSB 2020 - Rennes - France
 
 **Monday, Feb 3**
 
-* Welcome evening, from 6.30 pm [Shamrock](http://www.leshamrockrennes.com) pub
+* Welcome evening, from 6.30 pm [Shamrock](http://www.leshamrockrennes.com) pub http://www.leshamrockrennes.com
 
-**Tuesday, Feb 4** [Inria/Irisa Campus de Beaulieu](Inria/Irisa Campus de Beaulieu) - Room Petri/Turing
+**Tuesday, Feb 4** [Inria/Irisa Campus de Beaulieu](http://www.irisa.fr/en/access-map) - Room Petri/Turing http://www.irisa.fr/en/access-map
 
 * **9:15** 
   Welcome all - few technical information
-
 * **9:30** 
   *Cost-optimal assignment of elements in genome-scale multi-way bucketed Cuckoo hash tables*
   Jens Zentgraf, Henning Timm and Sven Rahmann
-
 * **10:00**
   *Faster Xenograft Sorting with 3-Way Bucketed Cuckoo Hashing of k-mers*
   Jens Zentgraf and Sven Rahmann
@@ -44,15 +33,12 @@ image: ./img/prog.jpg
 * **13:30**
   *Hierarchical Organization of Syntenic Blocks in Large Genomic Datasets*
   Daniel Doerr
-
 * **14:00**
   *viaDBG - Fast and accurate approach for viralquasispecies inference*
   Borja Freire, Susana Ladra, José Ramón Paramá and Leena Salmela
-
 * **14:30** 
   *Space-efficient indexing of spaced seeds for accurate overlap computation of raw optical mapping data*
   Riku Walve, Simon Puglisi and Leena Salmela
-
 * **15:00 Coffee break**
 
 * **15:30** [WIP] 
@@ -70,11 +56,11 @@ image: ./img/prog.jpg
 
 * **17:00** Time for discussion
 
-* **19:00** Diner at restaurant "[Origines](http://origines-rennes.fr/)" Hotel Dieu
+* **19:00** Diner at restaurant "[Origines](http://origines-rennes.fr/)" Hotel Dieu http://origines-rennes.fr/
 
 
 
-**Tuesday, Feb 5** [Inria/Irisa Campus de Beaulieu](Inria/Irisa Campus de Beaulieu) - Room Petri/Turing
+**Tuesday, Feb 5** [Inria/Irisa Campus de Beaulieu](http://www.irisa.fr/en/access-map) - Room Petri/Turing http://www.irisa.fr/en/access-map
 
 * **9:00**
   *In-Place Bijective Burrows Wheeler Transformations*
