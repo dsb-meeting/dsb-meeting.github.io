@@ -8,9 +8,11 @@
 
 * **9:15** 
   Welcome all - few technical information
+  
 * **9:30** 
   *Cost-optimal assignment of elements in genome-scale multi-way bucketed Cuckoo hash tables*
   Jens Zentgraf, Henning Timm and Sven Rahmann
+  
 * **10:00**
   *Faster Xenograft Sorting with 3-Way Bucketed Cuckoo Hashing of k-mers*
   Jens Zentgraf and Sven Rahmann
@@ -19,26 +21,27 @@
 
 * **11:00**
 
-  *Optical map guided genome assembly*
-
-  Miika Leinonen and Leena Salmela
-
+  *REINDEER: efficient indexing of k-mer presence and abundance in sequencing datasets*
+Camille Marchet, Zamin Iqbal, Mikaël Salson and Rayan Chikhi
+  
 * **11:30** (two combined talks)
   *Efficient and scalable representation of k-mer sets using simplitigs and spectrum-preserving string sets*
-
-  Amatur Rahman, Paul Medvedev, Karel Brinda, Michael Baym and Gregory Kucherov
-
+Amatur Rahman, Paul Medvedev, Karel Brinda, Michael Baym and Gregory Kucherov
+  
 * **12:30 Lunch**
 
 * **13:30**
   *Hierarchical Organization of Syntenic Blocks in Large Genomic Datasets*
   Daniel Doerr
+  
 * **14:00**
   *viaDBG - Fast and accurate approach for viralquasispecies inference*
   Borja Freire, Susana Ladra, José Ramón Paramá and Leena Salmela
+  
 * **14:30** 
   *Space-efficient indexing of spaced seeds for accurate overlap computation of raw optical mapping data*
   Riku Walve, Simon Puglisi and Leena Salmela
+  
 * **15:00 Coffee break**
 
 * **15:30** [WIP] 
@@ -68,9 +71,8 @@
 
 * **9:30**
   *Dynamic quasi-minimal perfect hash function for k-mers*
-
-  Paola Bonizzoni, Luca Denti, Erik Garrison, Yuri Pirola and Marco Previtali
-
+Paola Bonizzoni, Luca Denti, Erik Garrison, Yuri Pirola and Marco Previtali
+  
 * **10:00**
 
   *Million sequences indexing*
@@ -80,9 +82,9 @@
 
 * **11:00**
 
-  *REINDEER: efficient indexing of k-mer presence and abundance in sequencing datasets*
+  *Optical map guided genome assembly*
 
-  Camille Marchet, Zamin Iqbal, Mikaël Salson and Rayan Chikhi
+  Miika Leinonen and Leena Salmela
 
 * **11:30**
   *srnaMapper: a mapping tool for short-RNA sequencing*
