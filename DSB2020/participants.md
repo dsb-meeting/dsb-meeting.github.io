@@ -14,6 +14,7 @@ List of participants on January 22, 2020
 | Marine    | Brenet               | Inserm LTSI Medicis                  |
 | Bastien | Cazaux |  |
 | Cédric | Chauve | Simon Fraser University |
+| Zeyuan | Chen | Inria |
 | Rayan | Chikhi     | Institut Pasteur & CNRS |
 | Francois | Coste | Inria |
 | Luca | Denti | Università degli Studi di Milano - Bicocca |
