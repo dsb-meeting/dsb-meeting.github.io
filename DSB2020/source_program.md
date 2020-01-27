@@ -17,7 +17,7 @@
   
 * **10:00**
   
-  Faster Xenograft Sorting with 3-Way Bucketed Cuckoo Hashing of k-mers*
+  *Faster Xenograft Sorting with 3-Way Bucketed Cuckoo Hashing of k-mers*
 
   Jens Zentgraf and Sven Rahmann
   
@@ -25,7 +25,7 @@
 
 * **11:00**
 
-  REINDEER: efficient indexing of k-mer presence and abundance in sequencing datasets*
+  *REINDEER: efficient indexing of k-mer presence and abundance in sequencing datasets*
 
   Camille Marchet, Zamin Iqbal, Mikaël Salson and Rayan Chikhi
 
@@ -95,7 +95,6 @@ Amatur Rahman, Paul Medvedev, Karel Brinda, Michael Baym and Gregory Kucherov
   Dominik Köppl, Daiki Hashimoto, Diptarama Hendrian and Ayumi Shinohara
   
 * **9:30** [Work In Progress]
-  
 
 *Dynamic quasi-minimal perfect hash function for k-mers*
 
