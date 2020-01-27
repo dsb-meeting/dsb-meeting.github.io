@@ -94,7 +94,7 @@ Amatur Rahman, Paul Medvedev, Karel Brinda, Michael Baym and Gregory Kucherov
 
   Dominik Köppl, Daiki Hashimoto, Diptarama Hendrian and Ayumi Shinohara
   
-* **9:30**
+* **9:30** [Work In Progress]
   
 
 *Dynamic quasi-minimal perfect hash function for k-mers*
