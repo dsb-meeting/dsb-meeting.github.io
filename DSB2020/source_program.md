@@ -31,31 +31,30 @@
 
 * **11:30** (two combined talks)
   
-
-*Efficient and scalable representation of k-mer sets using simplitigs and spectrum-preserving string sets*
-
-Amatur Rahman, Paul Medvedev, Karel Brinda, Michael Baym and Gregory Kucherov
-
+  *Efficient and scalable representation of k-mer sets using simplitigs and spectrum-preserving string sets*
+  
+  Amatur Rahman, Paul Medvedev, Karel Brinda, Michael Baym and Gregory Kucherov
+  
 * **12:00 Lunch**
 
 * **13:30**
-  
+
   *Hierarchical Organization of Syntenic Blocks in Large Genomic Datasets*
-  
+
   Daniel Doerr
-  
+
 * **14:00**
-  
+
   *viaDBG - Fast and accurate approach for viralquasispecies inference*
-  
+
   Borja Freire, Susana Ladra, José Ramón Paramá and Leena Salmela
-  
+
 * **14:30** 
-  
+
   *Space-efficient indexing of spaced seeds for accurate overlap computation of raw optical mapping data*
-  
+
   Riku Walve, Simon Puglisi and Leena Salmela
-  
+
 * **15:00 Coffee break**
 
 
@@ -96,9 +95,9 @@ Amatur Rahman, Paul Medvedev, Karel Brinda, Michael Baym and Gregory Kucherov
   
 * **9:30** [Work In Progress]
 
-*Dynamic quasi-minimal perfect hash function for k-mers*
+  *Dynamic quasi-minimal perfect hash function for k-mers*
 
-Paola Bonizzoni, Luca Denti, Erik Garrison, Yuri Pirola and Marco Previtali
+  Paola Bonizzoni, Luca Denti, Erik Garrison, Yuri Pirola and Marco Previtali
 
 * **10:00**
 
@@ -115,31 +114,31 @@ Paola Bonizzoni, Luca Denti, Erik Garrison, Yuri Pirola and Marco Previtali
   Miika Leinonen and Leena Salmela
 
 * **11:30**
-  
+
   *srnaMapper: a mapping tool for short-RNA sequencing*
 
   Matthias Zytnicki
-  
+
 * **12:00**
-  
+
   *Shark: fishing in a sample to discard irrelevant RNA-Seq reads*
 
   Paola Bonizzoni, Tamara Ceccato, Gianluca Della Vedova, Luca Denti, Yuri Pirola, Marco Previtali and Raffaella Rizzi
-  
+
 * **12:30 Lunch**
 
 * **13:30**
-  
+
   *HASLR: Fast Hybrid Assembly of Long Reads*
 
   Ehsan Haghshenas, Hossein Asghari, Jens Stoye, Cedric Chauve, Faraz Hach
-  
+
 * **14:00**
-  
+
   *Reference independent somatic structural variant call*
 
   Taiki Yamada, Kenichi Chiba, Nozomi Hasegawa, Keisuke Kataoka, Yuichi Shiraishi and Kana Shimizu
-  
+
 * **14:30**
 
   *Superstring Graph in compact space*
