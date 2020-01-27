@@ -12,8 +12,10 @@ List of participants on January 22, 2020
 |:-----------|---------|------------|
 | Hideo | Bannai     | Kyushu University |
 | Marine    | Brenet               | Inserm LTSI Medicis                  |
+| Bastien | Cazaux |  |
 | Cédric | Chauve | Simon Fraser University |
 | Rayan | Chikhi     | Institut Pasteur & CNRS |
+| Francois | Coste | Inria |
 | Luca | Denti | Università degli Studi di Milano - Bicocca |
 | Marilia | Dias Vieira Braga | Bielefeld University |
 | Daniel | Doerr | Bielefeld University |
@@ -25,6 +27,7 @@ List of participants on January 22, 2020
 | Gregory | Kucherov | CNRS/LIGM Univ Gustave Eiffel |
 | Lolita | Lecompte   | Inria |
 | Thierry | Lecroq | University of Rouen Normandy |
+| Fabrice | Legeai | INRAE |
 | Miika | Leinonen   | University of Helsinki |
 | Claire | Lemaitre   | Inria |
 | Téo  | Lemane     | Inria |
@@ -46,8 +49,9 @@ List of participants on January 22, 2020
 | Tatiana | Starikovskaya | ENS Paris |
 | Jens  | Stoye      | Bielefeld University |
 | Kerian | Thuillier | ENS Rennes |
+| Riccardo | Vicedomini | Institut Pasteur |
 | Taiki | Yamada     | Waseda University |
 | Riku | Walve | University of Helsinki |
 | Jens | Zentgraf   | TU Dortmund University |
 | Bella | Zhukova | University of Helsinki |
-| Matthias | Zytnicki | INRAE |
+| Matthias | Zytnicki | INRAEé |

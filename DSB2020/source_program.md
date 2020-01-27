@@ -31,11 +31,12 @@
 
 * **11:30** (two combined talks)
   
+
 *Efficient and scalable representation of k-mer sets using simplitigs and spectrum-preserving string sets*
-  
+
 Amatur Rahman, Paul Medvedev, Karel Brinda, Michael Baym and Gregory Kucherov
-  
-* **12:30 Lunch**
+
+* **12:00 Lunch**
 
 * **13:30**
   
@@ -57,23 +58,27 @@ Amatur Rahman, Paul Medvedev, Karel Brinda, Michael Baym and Gregory Kucherov
   
 * **15:00 Coffee break**
 
-* **15:30** [WIP] 
-  
-  *HowDeSBT and Simka wedding. What has been done and what we plan to do*
 
-  Téo Lemane, Paul Medvedev, Pierre Peterlongo
+
+
+
+* **15:30** 
   
-* **16:00** [WIP]
+  *Computing longest common substring with k mismatches: Theory and practice*
+
+  Garance Gourdel, Tomasz Kociumaka, Jakub Radoszewski and Tatiana Starikovskaya
+  
+* **16:00** [Work In Progress]
 
   *BCash: Best Compressible Hash*
 
   Antoine Limasset
 
-* **16:30**
+* **16:30** [Work In Progress] 
   
-  *TBA*
+  *HowDeSBT and Simka wedding. What has been done and what we plan to do*
 
-  Tatiana Starikovskaya
+  Téo Lemane, Paul Medvedev, Pierre Peterlongo
   
 * **17:00** Time for discussion
 
@@ -91,10 +96,11 @@ Amatur Rahman, Paul Medvedev, Karel Brinda, Michael Baym and Gregory Kucherov
   
 * **9:30**
   
+
 *Dynamic quasi-minimal perfect hash function for k-mers*
-  
+
 Paola Bonizzoni, Luca Denti, Erik Garrison, Yuri Pirola and Marco Previtali
-  
+
 * **10:00**
 
   *Million sequences indexing*
@@ -136,9 +142,9 @@ Paola Bonizzoni, Luca Denti, Erik Garrison, Yuri Pirola and Marco Previtali
   Taiki Yamada, Kenichi Chiba, Nozomi Hasegawa, Keisuke Kataoka, Yuichi Shiraishi and Kana Shimizu
   
 * **14:30**
-  
-*TBA*
-  
-Bastien Cazau
-  
+
+  *Superstring Graph in compact space*
+
+  Bastien Cazaux and Eric Rivals
+
 * **15:00** Final Coffee break and *ad libitum* discussions

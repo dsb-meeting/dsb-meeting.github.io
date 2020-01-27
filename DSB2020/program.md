@@ -56,18 +56,20 @@ image: ./img/prog.jpg
 * **15:00 Coffee break**
 
 * **15:30** [WIP] 
-  *HowDeSBT and Simka wedding. What has been done and what we plan to do*
-  Téo Lemane, Paul Medvedev, Pierre Peterlongo
-
+  
+  *Computing longest common substring with k mismatches: Theory and practice*
+Garance Gourdel, Tomasz Kociumaka, Jakub Radoszewski and Tatiana Starikovskaya
+  
 * **16:00** [WIP]
 
   *BCash: Best Compressible Hash*
   Antoine Limasset
 
 * **16:30**
-  *TBA*
-  Tatiana Starikovskaya
-
+  
+  *HowDeSBT and Simka wedding. What has been done and what we plan to do*
+Téo Lemane, Paul Medvedev, Pierre Peterlongo
+  
 * **17:00** Time for discussion
 
 * **19:00** Diner at restaurant "[Origines](http://origines-rennes.fr/)" Hotel Dieu
