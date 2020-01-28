@@ -139,7 +139,7 @@
 
   Taiki Yamada, Kenichi Chiba, Nozomi Hasegawa, Keisuke Kataoka, Yuichi Shiraishi and Kana Shimizu
 
-* **14:30**
+* **14:30** [Work In Progress] 
 
   *Superstring Graph in compact space*
 
