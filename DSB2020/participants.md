@@ -22,6 +22,7 @@ List of participants on January 22, 2020
 | Daniel | Doerr | Bielefeld University |
 | Borja | Freire Castro | University of A Coruña |
 | Anne | Guichard | IRISA - Equipe GenScale |
+| Cervin | Guyomar | INRAE |
 | Birte | Kehr | Berlin Institute of Health |
 | Dominik | Köppl      | Kyushu University |
 | Thomas | Krannich | Berlin Institute of Health |

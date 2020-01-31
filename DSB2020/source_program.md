@@ -21,20 +21,20 @@
 
   Jens Zentgraf and Sven Rahmann
   
-* **10:30 Coffee break**
+* **10:30 Coffee break
 
-* **11:00**
-
-  *REINDEER: efficient indexing of k-mer presence and abundance in sequencing datasets*
-
-  Camille Marchet, Zamin Iqbal, Mikaël Salson and Rayan Chikhi
-
-* **11:30** (two combined talks)
+* **11:00** 
   
   *Efficient and scalable representation of k-mer sets using simplitigs and spectrum-preserving string sets*
   
   Amatur Rahman, Paul Medvedev, Karel Brinda, Michael Baym and Gregory Kucherov
   
+* **11:30**
+
+  *REINDEER: efficient indexing of k-mer presence and abundance in sequencing datasets*
+
+  Camille Marchet, Zamin Iqbal, Mikaël Salson and Rayan Chikhi
+
 * **12:00 Lunch**
 
 * **13:30**
