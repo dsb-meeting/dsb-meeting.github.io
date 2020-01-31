@@ -77,7 +77,7 @@
   
   *HowDeSBT and Simka wedding. What has been done and what we plan to do*
 
-  Téo Lemane, Paul Medvedev, Pierre Peterlongo
+  Téo Lemane, Paul Medvedev, Rayan Chikhi, Pierre Peterlongo
   
 * **17:00** Time for discussion
 
