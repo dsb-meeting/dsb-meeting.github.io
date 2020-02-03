@@ -85,7 +85,7 @@
 
 
 
-**Tuesday, Feb 5** [Inria/Irisa Campus de Beaulieu](http://www.irisa.fr/en/access-map) - Room Petri/Turing http://www.irisa.fr/en/access-map
+**Wednesday, Feb 5** [Inria/Irisa Campus de Beaulieu](http://www.irisa.fr/en/access-map) - Room Petri/Turing http://www.irisa.fr/en/access-map
 
 * **9:00**
   
