@@ -6,7 +6,7 @@ description: participants
 image: ../img/milano_portanuova.jpg
 ---
 
-List of participants on November 5, 2020
+List of participants on January 26, 2021
 
 |    |                      |  |
 |:-----------|---------|------------|
