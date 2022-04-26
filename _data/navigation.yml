@@ -1,5 +1,5 @@
-- name: DSB2021
-  link: /DSB2021/
+- name: DSB2022
+  link: /DSB2022/
 - name: Spirit
   link: /spirit/
 - name: Story
@@ -8,5 +8,5 @@
   link: /steering/
 # - name: Blog
 #   link: /blog/
-# - name: Contact
-#   link: /contact/
+- name: Contact
+  link: /contact/
