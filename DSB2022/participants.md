@@ -6,11 +6,32 @@ description: participants
 image: ../img/hausderuni.jpg
 ---
 
-List of participants on January 27, 2021
+List of participants on May 17, 2022
 
-|               |                  |                                                                                                          |
-| :------------ | ---------------- | -------------------------------------------------------------------------------------------------------- |
-| Tobias | Marschall | Heinrich-Heine University Düsseldorf |
-| Gunnar | Klau      | Heinrich-Heine University Düsseldorf |
-| Daniel | Doer      | Heinrich-Heine University Düsseldorf |
-| Fawaz  | Dabbaghie | Heinrich-Heine University Düsseldorf |
+|               |                  |
+| :------------ | ---------------- |
+| Hufsah        | Ashraf           |
+| Jasmijn       | Baaijens         |
+| Jasper        | van Bemmelen     |
+| Guangyi       | Chen             |
+| Manuel        | Cáceres          |
+| Fawaz         | Dabbaghie        |
+| Patrick       | Dinklage         |
+| Daniel        | Dörr             |
+| Jonas         | Ellert           |
+| Massimo       | Equi             |
+| Johannes      | Fischer          |
+| Ali           | Ghaffaari        |
+| Andreas       | Grigorjew        |
+| Christina     | Gros             |
+| Tobias        | Marschall        |
+| Gunnar W.     | Klau             |
+| Dominik       | Köppl            |
+| Laura         | Kühle            |
+| Antoine       | Limasset         |
+| Hugo          | Magalhães        |
+| Veli          | Mäkinen          |
+| Stephanie     | Pillay           |
+| Sven          | Rahmann          |
+| Aysun         | Urhan            |
+| Jens          | Zentgraf         |
