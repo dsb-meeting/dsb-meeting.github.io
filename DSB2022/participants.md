@@ -10,54 +10,54 @@ List of participants on May 17, 2022
 
 |                       |              |
 | :-------------------- | ------------ |
-| Hugo                  | Magalhães    |
-| Antoine               | Limasset     |
-| Lucas                 | Robidou      |
-| Hufsah                | Ashraf       |
-| Christina             | Gros         |
-| Nicola                | Rizzo        |
-| Jana                  | Ebler        |
-| Roland                | Wittler      |
-| Ramin Shirali Hossein | Zade         |
-| Stephanie             | Pillay       |
-| Simon J.              | Puglisi      |
-| Téo                   | Lemane       |
-| Nicola                | Cotumaccio   |
 | Jarno                 | Alanko       |
-| Luca                  | Parmigiani   |
-| Dominik               | Köppl        |
-| Laura                 | Kühle        |
-| Giulio Ermanno        | Pibiri       |
+| Hufsah                | Ashraf       |
+| Jasmijn               | Baaijens     |
+| Karel                 | Brinda       |
+| Jasper                | van Bemmelen |
+| Konstantinn           | Bonnet       |
+| Manuel                | Cáceres      |
+| Stefan                | Canzar       |
+| Guangyi               | Chen         |
+| Rayan                 | Chikhi       |
+| Nicola                | Cotumaccio   |
+| Fernando Hugo         | Cunha Dias   |
+| Fawaz                 | Dabbaghie    |
+| Vu Lam                | Dang         |
+| Diego                 | Diaz         |
+| Patrick               | Dinklage     |
+| Jana                  | Ebler        |
+| Jonas                 | Ellert       |
+| Victor                | Epain        |
+| Massimo               | Equi         |
+| Johannes              | Fischer      |
+| Ali                   | Ghaffaari    |
+| Andreas               | Grigorjew    |
+| Christina             | Gros         |
 | Erin                  | Jordan       |
 | Gunnar W.             | Klau         |
-| Stefan                | Canzar       |
-| Karel                 | Brinda       |
-| Pengfei               | Wang         |
-| Diego                 | Diaz         |
-| Eric                  | Rivals       |
-| Andreas               | Grigorjew    |
-| Veli                  | Mäkinen      |
-| Jonas                 | Ellert       |
-| Jens                  | Zentgraf     |
-| Fernando Hugo         | Cunha Dias   |
-| Jasper                | van Bemmelen |
-| Vu Lam                | Dang         |
-| Guangyi               | Chen         |
-| Ali                   | Ghaffaari    |
-| Fawaz                 | Dabbaghie    |
-| Massimo               | Equi         |
-| Manuel                | Cáceres      |
-| Sandra                | Romain       |
-| Patrick               | Dinklage     |
-| Jens                  | Stoye        |
-| Rayan                 | Chikhi       |
+| Dominik               | Köppl        |
 | Thomas                | Krannich     |
-| Andreas               | Rempel       |
-| Yoshihiro             | Shibuya      |
-| Konstantinn           | Bonnet       |
-| Johannes              | Fischer      |
-| Sebastian             | Schmidt      |
+| Laura                 | Kühle        |
+| Téo                   | Lemane       |
+| Antoine               | Limasset     |
+| Hugo                  | Magalhães    |
+| Veli                  | Mäkinen      |
+| Luca                  | Parmigiani   |
+| Giulio Ermanno        | Pibiri       |
+| Stephanie             | Pillay       |
+| Simon J.              | Puglisi      |
 | Sven                  | Rahmann      |
+| Andreas               | Rempel       |
+| Eric                  | Rivals       |
+| Nicola                | Rizzo        |
+| Lucas                 | Robidou      |
+| Sandra                | Romain       |
+| Sebastian             | Schmidt      |
+| Yoshihiro             | Shibuya      |
+| Jens                  | Stoye        |
 | Aysun                 | Urhan        |
-| Victor                | Epain        |
-| Jasmijn               | Baaijens     |
+| Pengfei               | Wang         |
+| Roland                | Wittler      |
+| Ramin Shirali Hossein | Zade         |
+| Jens                  | Zentgraf     |
