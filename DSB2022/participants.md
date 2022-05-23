@@ -39,7 +39,7 @@ List of participants on May 17, 2022
 | Veli                  | Mäkinen      |
 | Jonas                 | Ellert       |
 | Jens                  | Zentgraf     |
-| Fernando Hugo Cunha   | Dias         |
+| Fernando Hugo         | Cunha Dias   |
 | Jasper                | van Bemmelen |
 | Vu Lam                | Dang         |
 | Guangyi               | Chen         |
