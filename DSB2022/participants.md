@@ -6,7 +6,7 @@ description: participants
 image: ../img/hausderuni.jpg
 ---
 
-List of participants on May 23, 2022
+<!-- List of participants on May 23, 2022
 
 |                |                      |
 | :------------- | -------------------- |
@@ -61,3 +61,4 @@ List of participants on May 23, 2022
 | Pengfei        | Wang                 |
 | Roland         | Wittler              |
 | Jens           | Zentgraf             |
+-->
