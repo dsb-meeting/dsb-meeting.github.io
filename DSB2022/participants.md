@@ -5,7 +5,9 @@ description: participants
 <!-- permalink: /DSB2022/ -->
 image: ../img/hausderuni.jpg
 ---
-List of participants as of the 8th of June 2022
+## List of participants as of the 8th of June 2022
+
+---
 
 | **Participant**            | **Affiliation**                                                                          |
 |----------------------------|------------------------------------------------------------------------------------------|
