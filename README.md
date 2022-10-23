@@ -24,3 +24,11 @@ The workshop "Data Structures in Bioinformatics", or DSB for short, is an annual
 ## Fall - Winter 2020 - 2021
 
 * Update with DSB2021 
+
+## Spring 2022
+
+* Update with DSB2022
+
+## Fall - Winter 2022-2023
+
+* Update with DSB2023
